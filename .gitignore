@@ -1,0 +1,42 @@
+# Entorno virtual
+entornoAPI/
+.env/
+env/
+
+# Archivos Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuraciones del editor/IDE
+.vscode/
+.idea/
+
+# Archivos de entorno y secretos
+.env
+*.env
+
+# Cachés
+*.cache
+*.log
+
+# Archivos creados por herramientas de testing
+htmlcov/
+.coverage
+.tox/
+.nox/
+*.cover
+.cache
+
+# Archivos creados por herramientas de empaquetado
+*.egg
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+
+# Documentación generada
+docs/_build/
+
+# Archivos temporales de depuración
+debug.log
